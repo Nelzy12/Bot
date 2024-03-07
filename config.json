@@ -19,10 +19,10 @@
   },
   "commandDisabled": [],
   "eventDisabled": [],
-  "BOTNAME": "Bot",
-  "PREFIX": "?",
+  "BOTNAME": "SunnelBot",
+  "PREFIX": "-",
   "ADMINBOT": [
-    "YOUR_FB_UID",
+    "100071157053751",
     "OTHER_FB_UID"
   ],
   "DESIGN": {
